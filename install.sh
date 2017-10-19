@@ -62,3 +62,8 @@ pip install selenium
 echo "Installing virtual display"
 pip install pyvirtualdisplay==0.2.1
 echo "Installed Everything !!!"
+echo "Following softwares were installed on your system :"
+echo "          1. Python 2.7"
+echo "          2. Chrome : latest stable"
+echo "          3. Chrome Driver 2.33 "
+echo "          4. Selenium 3.0"
